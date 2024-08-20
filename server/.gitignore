@@ -1,0 +1,8 @@
+# Ignore system directories
+System Volume Information/
+$RECYCLE.BIN/
+
+# Ignore other unwanted files
+*.log
+node_modules/
+.env
